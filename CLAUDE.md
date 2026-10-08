@@ -13,13 +13,13 @@ Sitio de una sola página para el despacho de consultoría financiera MYA Valora
 
 ## Decisiones de contenido
 - **No** incluir información personal de los socios (nombres, semblanzas, fotos). Lo pidió el cliente.
-- Contacto: correo julianmenachavez@gmail.com; teléfono y WhatsApp de Esteban: +52 951 276 3038.
+- Contacto: correos julianmenachavez@gmail.com y paris.eaac@gmail.com; teléfono y WhatsApp de Esteban: +52 951 276 3038.
 - Sin precios publicados: tras el diagnóstico se envía propuesta con precio cerrado.
 - Primera sesión de diagnóstico (45 min) sin costo.
 - No inventar cifras, clientes ni testimonios.
 
 ## Formulario
-- Envía vía FormSubmit (AJAX) a `https://formsubmit.co/ajax/julianmenachavez@gmail.com`. Requiere activación única desde el correo.
+- Envía vía FormSubmit (AJAX) a `https://formsubmit.co/ajax/julianmenachavez@gmail.com`. Copia a paris.eaac@gmail.com con el campo oculto `_cc`. Requiere activación única desde el correo.
 - Campos: Nombre, Empresa, email, Teléfono, Servicio (radio), Mensaje; honeypot `_honey`.
 
 ## Sistema de diseño (estilo editorial monocromo con un solo acento)
